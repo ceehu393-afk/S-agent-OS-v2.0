@@ -1,0 +1,6 @@
+{
+  "name": "Resin Order Fulfillment Agent OS",
+  "description": "严格管理大货生产时间线、交付物检测、QC检验、不可逆点高危拦截和结果导向财务卡控的三重安全防护智能操作系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
